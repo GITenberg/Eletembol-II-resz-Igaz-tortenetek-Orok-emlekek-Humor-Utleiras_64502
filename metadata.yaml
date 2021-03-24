@@ -1,0 +1,33 @@
+_repo: Eletembol-II-resz-Igaz-tortenetek-Orok-emlekek-Humor-Utleiras_64502
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jókai, Mór
+    aliases:
+    - Jokai, Maurus
+    - Jokai, Mor
+    birthdate: 1825
+    deathdate: 1904
+    gutenberg_agent_id: '5845'
+    url: http://www.gutenberg.org/2009/agents/5845
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/M%C3%B3r_J%C3%B3kai
+    - https://en.wikipedia.org/wiki/M%C3%B3r_J%C3%B3kai
+    - https://hu.wikipedia.org/wiki/J%C3%B3kai_M%C3%B3r
+description: ''
+gutenberg_issued: '2021-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64502'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jókai, Mór, 1825-1904'
+- !lcc 'PH'
+- GITenberg
+title: 'Életemből (II. rész)
+
+  Igaz történetek. Örök emlékek. Humor. Utleirás.'
+url: http://www.gutenberg.org/ebooks/64502
