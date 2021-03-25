@@ -1,5 +1,8 @@
 _repo: Eletembol-II-resz-Igaz-tortenetek-Orok-emlekek-Humor-Utleiras_64502
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64502-h/images/cover.jpg
 creator:
   author:
     agent_name: Jókai, Mór
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/M%C3%B3r_J%C3%B3kai
     - https://hu.wikipedia.org/wiki/J%C3%B3kai_M%C3%B3r
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64502#Eletembol-II-resz-Igaz-tortenetek-Orok-emlekek-Humor-Utleiras
 gutenberg_issued: '2021-02-09'
 gutenberg_type: Text
 identifiers:
